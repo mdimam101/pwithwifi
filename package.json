@@ -1,6 +1,6 @@
 {
   "name": "project_with_wifi",
-  "home": "https://mdimam101.github.io/pwithwifi/",
+  "homepage": "https://mdimam101.github.io/pwithwifi/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
