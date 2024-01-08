@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pwithwifi/static/css/main.29cdb490.css",
+    "main.js": "/pwithwifi/static/js/main.9da46102.js",
+    "static/js/787.f798b5dc.chunk.js": "/pwithwifi/static/js/787.f798b5dc.chunk.js",
+    "static/media/Wifi_lock.png": "/pwithwifi/static/media/Wifi_lock.615c9539ea36c9ce2d28.png",
+    "static/media/wifi.svg": "/pwithwifi/static/media/wifi.85bae13fafc255be53443fba90791935.svg",
+    "index.html": "/pwithwifi/index.html",
+    "static/media/ok.svg": "/pwithwifi/static/media/ok.92c4a5cbc808818c35d0343dfe448bc1.svg",
+    "main.29cdb490.css.map": "/pwithwifi/static/css/main.29cdb490.css.map",
+    "main.9da46102.js.map": "/pwithwifi/static/js/main.9da46102.js.map",
+    "787.f798b5dc.chunk.js.map": "/pwithwifi/static/js/787.f798b5dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cdb490.css",
+    "static/js/main.9da46102.js"
+  ]
+}
