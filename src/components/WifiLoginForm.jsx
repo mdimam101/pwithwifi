@@ -42,7 +42,7 @@ export default function WifiLoginForm(props) {
         };
         props.revDataFromChild(childData);
         
-      }else if (localStorage.getItem('wifiID') || disconnectFlg) {
+      }else if (localStorage.getItem('wifiID') && disconnectFlg) {
         const childData = {
           wifiDisconnect: disconnectFlg,
           wifiConnect: connectFlg,
